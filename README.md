@@ -6,9 +6,9 @@ Methodology and Implementation:
 - Data Processing: Utilized TOEFL exam text data, applying text vectorization techniques such as TF-IDF to convert text into a format suitable for machine learning models.
 Model Development: Implemented several models with a primary focus on Stochastic Gradient Descent (SGD) classifiers. The project explored multiple classification strategies, starting with a basic model to predict broad language groups before refining predictions to specific languages.
 
--Hyperparameter Tuning: Conducted extensive tuning of model parameters to enhance accuracy and performance.
+- Hyperparameter Tuning: Conducted extensive tuning of model parameters to enhance accuracy and performance.
 
--Cross-Validation: Employed cross-validation techniques to ensure the robustness and generalizability of the models.
+- Cross-Validation: Employed cross-validation techniques to ensure the robustness and generalizability of the models.
 
 Key Results:
 - Developed a multi-tier classification system that initially categorizes responses into language families and subsequently into specific languages.
